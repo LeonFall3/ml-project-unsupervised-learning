@@ -17,11 +17,13 @@ The ultimate goal of the project is to gain insights from the data sets and comm
 
 ## Visual Summary
 
-![Alt text](Images\Correlation_Matrix.png)
+![Correlation_Matrix](https://github.com/user-attachments/assets/40992a79-7b0f-4852-b54a-abe4fab7481f)
+
 From the graph above we can see a simplily view of what types of foods are commonly bought together at the wholesale store the data is from.
 
 
-![Alt text](Images\Detergents_Paper&Grocery.png)
+![Detergents_Paper Grocery](https://github.com/user-attachments/assets/ae3aa87f-de17-470c-8a57-2b09c4aef75b)
+
 In this graph we take a closer look at the relationship between Detergents/Paper goods and Grocery goods.
 
 
